@@ -12,7 +12,7 @@
 - Define and use index aliases
 - Define and use an index template for a given pattern that satisfies a given set of requirements
 - Define and use a dynamic template that satisfies a given set of requirements
-- Use the Reindex API and Update By Query API to reindex and/or update documents
+- [Use the Reindex API and Update By Query API to reindex and/or update documents](https://github.com/noonlit/elasticsearch/blob/master/2.%20Indexing%20Data/6.%20Reindex%20and%20Update.md)
 - Define and use an ingest pipeline that satisfies a given set of requirements, including the use of Painless to modify documents
 
 ## Queries
