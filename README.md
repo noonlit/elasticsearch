@@ -26,8 +26,8 @@
 - Write and execute a query that searches across multiple clusters
 
 ## Aggregations
-- Write and execute metric and bucket aggregations
-- Write and execute aggregations that contain sub-aggregations
+- [Write and execute metric and bucket aggregations](https://github.com/noonlit/elasticsearch/blob/master/4.%20Aggregations/1.%20Metric%20and%20Bucket.md)
+- [Write and execute aggregations that contain sub-aggregations](https://github.com/noonlit/elasticsearch/blob/master/4.%20Aggregations/2.%20Subaggregations.md)
 
 ## Mappings and Text Analysis
 - Define a mapping that satisfies a given set of requirements
